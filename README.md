@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine learning and Web development**
 - :rocket: I'm interested in every technology i heard about
-- :hourglass: I love spending my free time watching anime (Though i don't have it 😢)
+- :hourglass: I love spending my free time watching anime (:small_red_triangle:404: Freetime not found)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
