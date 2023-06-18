@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Phạm Phan Anh</h1>
 <h3 align="center">A student at Hanoi University of Science and Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=voidkeishi&label=Profile%20views&color=0e75b6&style=flat" alt="voidkeishi" /> </p>
-
 - 🌱 I’m currently learning **Machine learning and Web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/voidkeishi314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voidkeishi314" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18978207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18978207" height="30" width="40" /></a>
+<a href="https://kaggle.com/keishi314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="keishi314" height="30" width="40" /></a>
 <a href="https://fb.com/nerdy.keishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nerdy.keishi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nerdy_keishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nerdy_keishi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
