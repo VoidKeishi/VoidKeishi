@@ -22,6 +22,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidKeishi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="voidkeishi" width=467 /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=VoidKeishi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="voidkeishi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=VoidKeishi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="voidkeishi" width=467 /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VoidKeishi&theme=tokyonight&hide_border=true" alt="voidkeishi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VoidKeishi&theme=tokyonight&hide_border=true" alt="voidkeishi" width=467/></p>
