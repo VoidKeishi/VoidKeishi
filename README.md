@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Machine learning and Web development**
 - :rocket: I'm interested in every technology i heard about
 - :hourglass: I love spending my free time watching anime (Though i don't have it 😢)
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/voidkeishi314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voidkeishi314" height="30" width="40" /></a>
