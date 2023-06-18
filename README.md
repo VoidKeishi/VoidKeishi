@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Phạm Phan Anh</h1>
-<h3 align="center">A student at Hanoi University of Science and Technology</h3>
+<h1>Hi there :full_moon:</h1>
+
+<h3>I'm Phạm Phan Anh</h3>
+<h3>A student at Hanoi University of Science and Technology</h3>
 
 - 🌱 I’m currently learning **Machine learning and Web development**
-
+- :rocket: I'm interested in every technology i heard about
+- :hourglass: I love spending my free time watching anime (Though i don't have it 😢)
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/voidkeishi314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voidkeishi314" height="30" width="40" /></a>
