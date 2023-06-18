@@ -1,7 +1,7 @@
 <h1>Hi there :full_moon:</h1>
 
-<h3>I'm Phạm Phan Anh</h3>
-<h3>A student at Hanoi University of Science and Technology</h3>
+<h3>I'm Phạm Phan Anh - A student at Hanoi University of Science and Technology</h3>
+<h3>A logic thinker and anime lover</h3>
 
 - 🌱 I’m currently learning **Machine learning and Web development**
 - :rocket: I'm interested in every technology i heard about
