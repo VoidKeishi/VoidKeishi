@@ -1,9 +1,9 @@
-<h1>Hi there :full_moon:</h1>
+<h1>Hi there :waxing_crescent_moon::sparkles:</h1>
 
-<h3>I'm Phạm Phan Anh - A student at Hanoi University of Science and Technology</h3>
-<h4>A logic thinker and enthusiastic learner</h4>
+<h3>I'm Pham Phan Anh - A CS student at Hanoi University of Science and Technology</h3>
+<h4>"A logic thinker and enthusiastic learner"</h4>
 
-- 🌱 I’m currently learning **Machine learning and Web development**
+- 🌱 I’m currently learning **Machine learning** and **Web development**
 - :rocket: I'm interested in every technology i heard about
 - :hourglass: I love spending my free time watching anime (:small_red_triangle:404: Freetime not found)
 
