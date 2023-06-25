@@ -6,7 +6,7 @@
 <h2>Technology</h2>
 <h3>Machine learning</h3>
 <h3>Web development</h3>
-<h3>Tools</h3>
+<h2>Tools</h2>
 <h2>Contact me</h2>
 <div align="left">
     <a href="https://www.facebook.com/nerdy.keishi/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
