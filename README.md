@@ -1,9 +1,9 @@
 <h1>🔭 About me</h1>
 <h2>📌 Basic info</h2>
 
-<p>My name is Pham Phan Anh, I'm a 20 year old student from Hanoi :vietnam:.</p>
-<p>I'm currently studying HEDSPI Program (Higher Education Development Support Project on ICT) at Hanoi University of Science and Technology.</p>
-<p>I'm interested in Machine Learning.</p>
+👋 Hi there! I'm Pham Phan Anh, a 20-year-old student from Hanoi, Vietnam 🇻🇳. Currently, I'm studying IT and Japanese at Hanoi University of Science and Technology, specializing in the HEDSPI Program (Higher Education Development Support Project on ICT).  
+🌱 I have a strong passion for Machine Learning and constantly seek opportunities to expand my technical skillset. With a logical thinking approach and effective study habits, I've excelled in my studies so far. I also possess good leadership skills, enabling me to take initiative and collaborate effectively with others.  
+💡 As a curious and motivated learner, I am always eager to delve into the root of knowledge and tackle technical challenges with a positive and adaptable attitude. I believe in making a positive impact in the organizations and teams I work with in the future.
 
 <h2>🎯 My skills</h2>
 
