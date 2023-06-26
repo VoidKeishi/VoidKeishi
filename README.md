@@ -1,12 +1,12 @@
 <h1>🔭 About me</h1>
 <h2>📌 Basic info</h2>
-<hr>
+
 <p>My name is Pham Phan Anh, I'm a 20 year old student from Hanoi :vietnam:.</p>
 <p>I'm currently studying HEDSPI Program (Higher Education Development Support Project on ICT) at Hanoi University of Science and Technology.</p>
 <p>I'm interested in Machine Learning.</p>
 
 <h2>🎯 My skills</h2>
-<hr>
+
 <img align="right" alt="GIF" width=400px src="coding.gif">
 
 <h3>🖥️ Programing language</h3>
@@ -64,13 +64,13 @@
 
 <br>
 <h2>📈 Stats</h2>
-<hr>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=VoidKeishi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="voidkeishi" height=150/>
 <span style="margin-left: 5px;"></span>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VoidKeishi&theme=tokyonight&hide_border=true" alt="voidkeishi" height=150/>
 
 <h2>📫 Contact me</h2>
-<hr>
+
 <div align="left">
     <a href="https://www.facebook.com/nerdy.keishi/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/voidkeishi314" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
