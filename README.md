@@ -1,11 +1,15 @@
-<h1>🔭 About me</h1>
-<h2>📌 Introduction</h2>
+<h2>🔭 About me</h2>
 
-- 👋 Hi there! I'm Pham Phan Anh, a 20-year-old student from Hanoi, Vietnam. Currently, I'm studying IT and Japanese at Hanoi University of Science and Technology, specializing in the HEDSPI Program (Higher Education Development Support Project on ICT).  
-- 🌱 I have a strong passion for Machine Learning and constantly seek opportunities to expand my technical skillset. With a logical thinking approach and effective study habits, I've excelled in my studies so far. I also possess good leadership skills, enabling me to take initiative and collaborate effectively with others.  
-- 💡 As a curious and motivated learner, I am always eager to delve into the root of knowledge and tackle technical challenges with a positive and adaptable attitude. I believe in making a positive impact in the organizations and teams I work with in the future.
+- 👋 I'm Pham Phan Anh, student of HEDSPI program at Hanoi University of Science and Technology.
 
-<h2>🎯 My skills</h2>
+- 💡 Motivated learner with a proactive attitude towards technical challenges. Committed to making a positive impact through collaboration and innovation in future endeavors.  
+
+- 🎯 Currently, I'm focused on NLP, aiming to become a Software Engineer adept at integrating AI into products.
+
+
+- 🌱 In my free time, I enjoy customizing Linux desktops and engaging in DIY projects.
+
+<h2>🎓 Skills</h2>
 
 <img align="right" alt="GIF" width=400px src="coding.gif">
 
@@ -15,9 +19,8 @@
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-    <img src="https://img.shields.io/badge/Assembly-808080?style=for-the-badge&logo=assemblyscript&logoColor=blue">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
-
 <br>
 <h3>🤖 Machine learning</h3>
 <br>
@@ -26,7 +29,6 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
     <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </div>
-
 <br>
 <h3>🌐 Web development</h3>
 <br>
@@ -36,9 +38,7 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div>
-
 <br>
-
 <div style="display: flex;">
     <div align="left" style="flex: 1;">
         <h3>🎨 Design</h3>
@@ -54,12 +54,19 @@
         <br>
         <div align="left">
             <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-            <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
             <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-            <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+            <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
             <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
         </div>
     </div>
+</div>
+<br>
+<h3>💻 Working OS</h3>
+<br>
+<div align="left">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
 <br>
