@@ -12,6 +12,7 @@ void keishi(void *challenge) {
 
 ---
 
-`C` `C++` `Python` `Java` `PyTorch` `TensorFlow`
+`C` `C++` `Python` `Java`
 
 [Email](mailto:phananha4@gmail.com) · [LinkedIn](https://www.linkedin.com/in/voidkeishi314) · [Facebook](https://www.facebook.com/nerdy.keishi/)
+
